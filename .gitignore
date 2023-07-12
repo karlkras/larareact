@@ -1,0 +1,7 @@
+.env
+docker/logs/*
+docker/mysql/*
+/.fleet
+/.idea
+/.vscode
+
